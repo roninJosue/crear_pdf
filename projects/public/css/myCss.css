@@ -1,0 +1,170 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 01-22-2016, 10:55:40 PM
+    Author     : Reynaldo
+*/
+
+
+.btn-circle
+{
+    width: 30px;
+    height: 30px;
+    padding: 6px 0;
+    border-radius: 25px;
+    /*text-align: center;*/
+    font-size: 12px;
+    line-height: 1.428571429;
+}
+
+body
+{
+    font-family: "Roboto";
+}
+
+.question
+{
+    padding: 0 0 0 10px;
+    font-weight: bold;
+}
+
+.cabecera
+{
+    /*min-height: 200px;*/
+    background-color: #0d4a9d;
+    padding: 5%;
+}
+
+.linea
+{
+    min-height: 8px;
+    background-color: #f47b29;
+}
+
+.spacebetweenq
+{
+    margin-bottom: 25px!important;
+}
+
+.myBadge
+{
+    background-color: #f47b29;
+}
+
+.separator
+{
+    border: 1px;
+    border-color: #0d4a9d;
+    border-style: solid;
+}
+
+@media (max-width: 700px) {
+  .cabecera {
+    /*display: none;*/
+    min-height: 150px;
+    /*padding-top: 11.5%;*/
+  }
+  img{
+      /*display: none!important;*/
+  }
+}
+
+@media screen and (max-width: 300px), screen and (max-width: 400px)
+{
+    .cabecera {
+        /*display: none;*/
+        min-height: 130px;
+        padding-top: 10.5%;
+    }
+}
+
+@media screen and (max-width: 450px), screen and (max-width: 650px)
+{
+    .cabecera {
+        /*display: none;*/
+        min-height: 130px;
+        padding-top: 9.5%;
+    }
+}
+
+.panel-body ul{
+    margin-top: 10px;
+}
+
+.panel-body ul li
+{
+    margin-bottom: 7px;
+}
+
+.col1
+{
+    min-height: 80px;
+}
+
+.col2
+{
+    min-height: 0px;
+}
+
+.col3
+{
+    min-height: 240px;
+}
+
+.footer
+{
+    background:url('../img/footer2.png') no-repeat center center;
+    height: 219px;
+    width: 100%;
+    /*background-size: cover;*/
+    margin:  120px auto auto auto;
+
+
+}
+
+@font-face {
+    font-family: AlexBrush;
+    src: url(../fonts/AlexBrush-Regular.ttf);
+}
+
+@font-face {
+    font-family: AGSchool;
+    src: url(../fonts/AGSchoolbookRegular.ttf);
+}
+
+.nombr
+{
+    font-size: 4.7em;
+    font-family: 'AlexBrush';
+    margin-top: 10px;
+    margin-bottom: 15px;
+    line-height: 0.9em;
+    width: 100%;
+}
+
+.borde_sup
+{
+    border-top: 1px solid;
+    width: 300px;
+    /*text-align: center;*/
+    margin: 50px auto auto auto;
+    padding-top: 5px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+h4
+{
+    font-size: 1.45em;
+    line-height: 8px;
+    font-family: 'AGSchool';
+}
+
+html{margin:180px 10px 0px 10px}
+
+
+
+
