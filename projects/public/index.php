@@ -38,7 +38,7 @@
 		<div class="container-fluid">
 			<div class="section-heading inverse scrollpoint sp-effect3">
 				<img src="img/freeze/logo.png" class="animated fadeInDown" alt="">
-				<p class="margenTop">Curso básico de Laravel 5 !!</p>
+				<p class="margenTop">Curso b&aacute;sico de Laravel 5 !!</p>
 			</div>
 
 			<div class="row">
