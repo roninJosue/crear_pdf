@@ -48,10 +48,11 @@ and open the template in the editor.
                 </div>
                 <!--<div class="col-lg-1"></div>-->
             </div>
-            <div class="text-center footer">
+            
 
                 <div class="">
-                    <div class=""></div>
+                    <div class="firma"></div>
+                <div class="text-center footer">
                     <div class="borde_sup">
                         <h4>Msc. Odily Castillo R&aacute;udez</h4>
                         <h4>Gerente Acad&eacute;mica</h4>
@@ -59,6 +60,7 @@ and open the template in the editor.
                     </div>
                     <div class=""></div>
                 </div>
+
             </div>
     </div>
 </body>

@@ -120,9 +120,16 @@ body
     height: 219px;
     width: 100%;
     /*background-size: cover;*/
-    margin:  120px auto auto auto;
+    margin:  20px auto auto auto;
+}
 
-
+.firma
+{
+    background:url('../img/OAS_ES-Vertical.png') no-repeat center center;
+    height: 100px;
+    width: 250px;
+    background-size: cover;
+    margin: 10px auto auto auto; 
 }
 
 @font-face {
@@ -150,7 +157,7 @@ body
     border-top: 1px solid;
     width: 300px;
     /*text-align: center;*/
-    margin: 50px auto auto auto;
+    margin: 10px auto auto auto;
     padding-top: 5px;
     padding-right: 20px;
     padding-left: 20px;
@@ -163,7 +170,7 @@ h4
     font-family: 'AGSchool';
 }
 
-html{margin:180px 10px 0px 10px}
+html{margin:170px 10px 0px 10px}
 
 
 
